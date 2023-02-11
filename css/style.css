@@ -1,0 +1,16 @@
+@media {
+    body {
+      background-color: lightblue;
+    }
+   }
+
+#welcome-section {
+ height: 100vh
+}
+
+#navbar {
+   position: fixed;
+   top:0;
+   width: 100%;
+   background-color: orange;
+   }
